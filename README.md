@@ -1,7 +1,6 @@
 # Legend of Tarot
-### Text-Based Card Game in C++ made for ICS3U
+Text-Based Card Game in C++ made for ICS3U
 
-## Description
 Legend of Tarot is a battling game where the user collects cards in order to become more powerful. The cards in the game are based off of Tarot cards, which are commonly used in fortune telling, hence the name "Legend of Tarot". 
 
 ## Battling
